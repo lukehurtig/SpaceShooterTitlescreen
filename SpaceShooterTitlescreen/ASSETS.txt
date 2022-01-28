@@ -1,0 +1,11 @@
+Content\SpinningFighterSpaceship.png -- created by Lukas Hurtig for this project, released for public domain
+Content\Bullet.png -- created by Lukas Hurtig for this project, released for public domain
+Content\EnergyBlast.png -- created by Lukas Hurtig for this project, released for public domain
+
+Content\parrallax-space-backgound.png -- created by ansimuz of itch.io (https://ansimuz.itch.io/space-background?download)
+Content\parrallax-space-big-planet.png -- created by ansimuz of itch.io (https://ansimuz.itch.io/space-background?download)
+Content\parrallax-space-stars.png -- created by ansimuz of itch.io (https://ansimuz.itch.io/space-background?download)
+
+Parrallax Space Artwork created by Luis Zuno (@ansimuz)
+
+License (CC0) You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission: http://creativecommons.org/publicdomain/zero/1.0/
