@@ -86,11 +86,11 @@ namespace SpaceShooterTitlescreen
             spriteBatch.Begin();
             spriteBatch.Draw(bg, new Rectangle(0, 0, 800, 490), Color.White);
             spriteBatch.Draw(stars, new Rectangle(0, 0, 800, 490), Color.White);
-            spriteBatch.Draw(planet, new Rectangle(450, 180, 200, 200), Color.White);
+            spriteBatch.Draw(planet, new Rectangle(450, 190, 200, 200), Color.White);
             foreach (var bullet in bullets) bullet.Draw(gameTime, spriteBatch);
             spaceship.Draw(gameTime, spriteBatch);
-            spriteBatch.DrawString(titleFont, "Do A Barrel Roll!", new Vector2(125, 25), Color.BurlyWood);
-            spriteBatch.DrawString(select, "Press Space or A", new Vector2(300, 125), Color.BurlyWood);
+            spriteBatch.DrawString(titleFont, "Do A Barrel Roll!", new Vector2(135, 25), Color.BurlyWood);
+            spriteBatch.DrawString(select, "Press Space or A to do a Barrel Roll!\nPress Esc or Back Button to Exit", new Vector2(250, 120), Color.BurlyWood);
             spriteBatch.End();
 
             base.Draw(gameTime);
